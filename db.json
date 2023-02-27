@@ -1,16 +1,16 @@
 {
-  "posts":[
+  "contacts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "ali",
+      "email": "ali@yahoo.com",
+      "id": 1677483965033,
+      "AtCreate": "2023-02-27T07:46:45.106Z"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "ahmad",
+      "email": "ahmad@gmail.com",
+      "id": 1677483971496,
+      "AtCreate": "2023-02-27T07:46:27.050Z"
     }
   ]
 }
